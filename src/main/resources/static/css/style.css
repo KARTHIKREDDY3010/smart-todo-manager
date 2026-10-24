@@ -1,0 +1,28 @@
+body {
+    background-color: #f5f7fb;
+}
+
+.stat-number {
+    font-size: 2rem;
+    font-weight: 700;
+    line-height: 1.2;
+}
+
+.stat-card {
+    border-radius: 0.75rem;
+}
+
+.card {
+    border-radius: 0.75rem;
+}
+
+.task-description {
+    max-width: 320px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.status-select {
+    min-width: 130px;
+}
