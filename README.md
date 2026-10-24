@@ -22,7 +22,7 @@ A task management web app with a Spring Boot REST API, MySQL database and a resp
 
 ## Screenshot
 
-![Smart Todo Manager](docs/screenshot.png)
+![Smart Todo Manager](screenshot.png)
 
 ## Getting started
 
